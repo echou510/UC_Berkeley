@@ -6,3 +6,6 @@ This repository is dedicated for the study materials for UC Berkeley Electrical 
 
 ## Haas Undergraduate Business Administration
 [UGBA Degree Requirements](https://haas.berkeley.edu/wp-content/uploads/Degree-Requirements-2020.pdf)
+
+## Statistics Major Requirement: 
+[Degree Requirement](https://statistics.berkeley.edu/sites/default/files/pages/docs/statmajorapplicationinfopacketspring2018.pdf)
