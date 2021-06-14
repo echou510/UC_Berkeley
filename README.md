@@ -3,3 +3,6 @@ This repository is dedicated for the study materials for UC Berkeley Electrical 
 
 ## EECS Course Flow Chart: 
 [Eta Kappa Nu Course Flow Chart](https://hkn.eecs.berkeley.edu/courseguides) 
+
+## Haas Undergraduate Business Administration
+[UGBA Degree Requirements](https://haas.berkeley.edu/wp-content/uploads/Degree-Requirements-2020.pdf)
