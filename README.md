@@ -14,5 +14,5 @@ This repository is dedicated for the study materials for UC Berkeley Electrical 
 [Math Degree Requirements](http://guide.berkeley.edu/undergraduate/degree-programs/mathematics/mathematics.pdf)
 
 ## Tools
-[SAM PDF](https://pdfsam.org/download-pdfsam-basic/)
-Use this tool to merge or split the textbook if the textbook is too big or have multiple .pdf files. 
+[SAM PDF ](https://pdfsam.org/download-pdfsam-basic/)
+: Use this tool to merge or split the textbook if the textbook is too big or have multiple .pdf files. 
